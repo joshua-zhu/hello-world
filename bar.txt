@@ -1,2 +1,3 @@
 this is test file bar
 second line of the test file bar
+bar file: the third line
