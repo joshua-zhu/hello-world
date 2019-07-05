@@ -1,3 +1,4 @@
 this is a test file
 the is the second line of the file
 foo file the third line of text
+foo file the fourth line, this is catching up bar in number of lines
