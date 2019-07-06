@@ -5,3 +5,4 @@ bar file: the fourth line, getting a little longer
 bar file: the fifth line, this is getting longer and longer
 bar file the sixth line
 bar file the seventh line
+bar file the eighth line
